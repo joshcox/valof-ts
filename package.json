@@ -1,0 +1,10 @@
+{
+  "name": "valof",
+  "version": "0.0.0",
+  "scripts": {
+    "build": "tsc"
+  },
+  "dependencies": {
+    "typescript": "^3.0.1"
+  }
+}
